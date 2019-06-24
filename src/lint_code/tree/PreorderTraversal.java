@@ -5,6 +5,8 @@ import java.util.List;
 
 /**
  * @author wjianwu 2019/6/11 14:05
+ *
+ * 先序遍历
  */
 public class PreorderTraversal {
 

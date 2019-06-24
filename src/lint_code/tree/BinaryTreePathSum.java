@@ -8,7 +8,8 @@ import java.util.List;
  */
 public class BinaryTreePathSum {
 
-    public List<List<Integer>> binaryTreePathSum(TreeNode root, int target) {
+
+    public List<List<Integer>> binaryTreePaths(TreeNode root, int target) {
         List<List<Integer>> lists = new ArrayList<>();
         List<Integer> list = new ArrayList<>();
 

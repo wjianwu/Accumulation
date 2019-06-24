@@ -2,6 +2,8 @@ package lint_code.tree;
 
 /**
  * @author wjianwu 2019/6/11 11:27
+ *
+ * 左右子树交换
  */
 public class InvertBinaryTree {
 
